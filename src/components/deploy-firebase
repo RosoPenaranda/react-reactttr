@@ -1,0 +1,6 @@
+firebase login
+firebase init
+webpack -p
+firebase deploy
+
+https://reactttr.firebaseapp.com
